@@ -1,0 +1,1 @@
+[CMake основы S0ER](https://www.youtube.com/watch?v=mrm39JmvJ1c)
